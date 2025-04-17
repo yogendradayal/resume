@@ -1,0 +1,13 @@
+streamlit==1.44.1
+pandas==2.2.3
+numpy==2.2.4
+scikit-learn==1.6.1
+python-docx==1.1.2
+PyPDF2==3.0.1
+pdfplumber==0.11.6
+nltk==3.9.1
+spacy==3.8.5
+tqdm==4.67.1
+openpyxl==3.1.5
+email-validator==2.2.0
+validators==0.34.0
