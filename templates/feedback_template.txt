@@ -1,0 +1,13 @@
+Hi {name},
+
+Thank you for submitting your resume!
+
+Your resume score is: {score}/100
+
+Here is a breakdown of your score:
+{breakdown}
+
+We appreciate your interest and encourage you to keep learning and applying.
+
+Best,
+Elint Resume Agent
